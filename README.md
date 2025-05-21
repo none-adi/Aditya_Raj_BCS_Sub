@@ -70,6 +70,8 @@
    pip install -r requirements.txt
    ```
 
+- Finally, to run the pygame, execute the file `test_script.py`.
+
 
 
 
